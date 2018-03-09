@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- -->
+    <color name="actionbar">#E91E63</color>
+    <color name="actionbar_dark">#C2185B</color>
+
+    <color name="textcolor_strong">#4c4c4c</color>
+    <color name="textcolor_weak">#999999</color>
+
+    <color name="background">#F2F2F2</color>
+    <color name="card_shadow">#DADADA</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="card_shadow_top">#DDDADADA</color>
+    <color name="card_shadow_end">#22DADADA</color>
+
+    <color name="transparent_button_default">#00FFFFFF</color>
+    <color name="transparent_button_pressed">#66E91E63</color>
+
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+
+    <!-- Default -->
+    <style name="Theme.Eodi" parent="@style/Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/actionbar</item>
+        <item name="colorPrimaryDark">@color/actionbar_dark</item>
+        <item name="colorAccent">@color/actionbar</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.Eodi.Translucent" parent="@style/Theme.Eodi">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+</resources>
